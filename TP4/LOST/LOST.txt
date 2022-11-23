@@ -1,0 +1,1 @@
+{"emails": [{"Source": " oli@glo-2000.ca", "subject": " sdasd", "content": "\r\nasda\r\n\r\n"}, {"Source": " oli@glo-2000.ca", "subject": " test1234", "content": "\r\nshrek 2 the movie\r\n\r\n", "destination": "shrek@glo-2000.ca"}]}
